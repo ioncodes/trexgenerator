@@ -1,0 +1,7 @@
+[package]
+name = "jumpingdino"
+version = "0.1.0"
+authors = ["Luca Marcelli <ionix@protonmail.com>"]
+
+[dependencies]
+raster = "0.0.7"
